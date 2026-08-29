@@ -1,16 +1,14 @@
-## Hi there 👋
+### Olá, eu sou o Bruno 👋
 
-<!--
-**brunocarvalhodeabreulucas15-creator/brunocarvalhodeabreulucas15-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Python focado em Backend e POO.
 
-Here are some ideas to get you started:
+- 🔭 Estudando: Python, Programação Orientada a Objetos e Hash
+- 🌱 Projeto atual: Sistema Bancário Simples em Python
+- 🎯 Objetivo: Virar Desenvolvedor Backend
+- 📫 Me chama aqui no GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tecnologias
+`Python` `Git` `GitHub` `POO`
+
+---
+⭐ Confira meus projetos fixados abaixo!
