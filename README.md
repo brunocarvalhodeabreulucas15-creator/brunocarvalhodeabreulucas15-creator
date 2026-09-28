@@ -8,7 +8,7 @@ Estudante de Python focado em Backend e POO.
 - 📫 Me chama aqui no GitHub!
 
 #### 🛠️ Tecnologias
-`Python` `Git` `GitHub` `POO`
+`Python` `Git` `GitHub` `POO` `Sqlite`
 
 ---
 ⭐ Confira meus projetos fixados abaixo!
