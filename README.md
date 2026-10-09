@@ -1,14 +1,21 @@
 ### Olá, eu sou o Bruno 👋
+Desenvolvedor em formação | Python + Flask + HTML/CSS
 
-Estudante de Python focado em Backend e POO.
-
-- 🔭 Estudando: Python, Programação Orientada a Objetos e Hash
-- 🌱 Projeto atual: Sistema Bancário Simples em Python
-- 🎯 Objetivo: Virar Desenvolvedor Backend
-- 📫 Me chama aqui no GitHub!
-
-#### 🛠️ Tecnologias
-`Python` `Git` `GitHub` `POO` `Sqlite`
+Focado em Backend e POO, construindo sistemas reais com Flask.
 
 ---
-⭐ Confira meus projetos fixados abaixo!
+### 🔥 Projeto em Destaque
+**Sistema de Cadastro Dark - Flask + SQLite**
+Sistema completo com tema dark, cadastro de usuários, banco de dados e templates.
+Stack: Python, Flask, SQLite, HTML, CSS
+→ [Ver repositório aqui]https://github.com/brunocarvalhodeabreulucas15-creator/flask-cadastro-dark
+
+### 📌 Outros projetos
+- Sistema Bancário em POO
+
+---
+### 🛠️ Stack
+Python | Flask | SQLite | HTML5 | CSS3 | Git & GitHub | POO
+
+📚 Atualmente estudando: Flask Blueprints e Flask-SQLAlchemy
+🎯 Meta: Primeiro emprego como Backend Júnior
